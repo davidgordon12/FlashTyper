@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlashTyper", "FlashTyper\FlashTyper.csproj", "{811AEB2A-0030-470D-9937-7896A9E2AA57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlashTyperLibrary", "FlashTyperLibrary\FlashTyperLibrary.csproj", "{B268994F-C3FC-4A2E-8999-5E154C285FDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{888DEFC1-7E4A-4A9C-A66F-35136D076394}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{811AEB2A-0030-470D-9937-7896A9E2AA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811AEB2A-0030-470D-9937-7896A9E2AA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811AEB2A-0030-470D-9937-7896A9E2AA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811AEB2A-0030-470D-9937-7896A9E2AA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B268994F-C3FC-4A2E-8999-5E154C285FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B268994F-C3FC-4A2E-8999-5E154C285FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B268994F-C3FC-4A2E-8999-5E154C285FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B268994F-C3FC-4A2E-8999-5E154C285FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3838E753-30B6-4A24-BA7D-FE66CCACD6BB}
+	EndGlobalSection
+EndGlobal

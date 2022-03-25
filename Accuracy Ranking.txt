@@ -1,0 +1,7 @@
+- Put the word list into a single string
+- Convert the string into a char array
+- Do the same with user input
+- Loop through both char arrays
+	- If [i] == [j], correct++
+	- Else Incorrecet++
+- Divide (correct / total) * 100 = total
